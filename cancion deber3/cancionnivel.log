@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"C:\Users\Usuario\Desktop\Universidad\8vo Semestre\Sistemas Embebidos\cancion deber3\cancionnivel.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Usuario\Desktop\Universidad\8vo Semestre\Sistemas Embebidos\cancion deber3\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "cancionnivel.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CStdlib.mcl" "__Lib_Time.mcl" "__Lib_Button.mcl" "__Lib_Sound.mcl" "__Lib_ADC_88X.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	cancionnivel.c
+diagnostics: 131	123	Compiled Successfully	cancionnivel.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 30 (9%)  Free RAM (bytes): 322 (91%)	Used RAM (bytes): 30 (9%)  Free RAM (bytes): 322 (91%)
+hint: 0	1144	Used ROM (program words): 1013 (12%)  Free ROM (program words): 7179 (88%)	Used ROM (program words): 1013 (12%)  Free ROM (program words): 7179 (88%)
+diagnostics: 0	125	Project Linked Successfully	cancionnivel.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'cancionnivel.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 15 jun 2025, 13:09:08	cancionnivel.mcppi
