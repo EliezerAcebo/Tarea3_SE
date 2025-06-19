@@ -118,7 +118,7 @@ void mostrarG() {
     uint16_t elapsed = 0;
     while (elapsed < 100) {          // 1000 ms = 1 segundo
         refrescar((uint8_t*)patrG);
-        _delay_ms(10);
+        _delay_ms(45);
         elapsed += 10;
     }
 }
